@@ -1,3 +1,3 @@
 # Python-practice-algorithm-and-grammar-
 
-Bubble sort, merge sort, prefix to postfix
+10.27 file - Bubble sort, merge sort, prefix to postfix
